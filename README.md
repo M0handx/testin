@@ -6,7 +6,7 @@ Start developing for WordPress right after a single click.
 ## Installation
 Create your own codespace by clicking this button. Please allow 5 minutes for auto-configuration at first setup. 
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=586814971&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=WestEurope)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=R_kgDOMsJ27A&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=WestEurope)
 
 You are done. The installation is completed.
 
